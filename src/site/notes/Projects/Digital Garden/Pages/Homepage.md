@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"home.md","dg-permalink":"Home","permalink":"/Home/","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Home","permalink":"/Home/","hide":true,"tags":["gardenEntry"]}
 ---
+
+
 
 
 This is a first test of a digital-garden based on my Obsidian vault.
