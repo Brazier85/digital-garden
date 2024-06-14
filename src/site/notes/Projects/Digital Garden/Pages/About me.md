@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"About Me","permalink":"/About Me/"}
+{"dg-publish":true,"dg-path":"About me.md","dg-permalink":"About Me","permalink":"/About Me/"}
 ---
 
 ## About me
